@@ -1,4 +1,5 @@
 //programa de asistentes a capacitaciones de nuevas tecnologias 2024 con filtros mejorados (cambio de filtros del mes por filtros de cantidad de asistentes)
+//trabajado con Pablo Ovalle
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
